@@ -1,0 +1,12 @@
+--- Transcription ---
+ Hello, my name is Claude Christian. Hello, hello, my name is Claude Christian.
+
+--- Analysis ---
+{'filler_words': {}, 'sentiment': {'tone': 'Neutral', 'score': 0.0}, 'keywords_found': [], 'keywords_missing': ['python', 'data', 'model', 'angular', 'project', 'api', 'machine learning']}
+
+--- Feedback ---
+Great job! You didn’t use any filler words. 👍
+Your tone was neutral. You can try to add more energy or emotion.
+You missed these keywords: python, data, model, angular, project, api, machine learning. Try to include them next time.
+
+--- Final Score: 0/100 ---
