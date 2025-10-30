@@ -70,9 +70,9 @@ Run the application
 python auth_app.py
 
 
-Then open your browser at http://localhost:5000
+Then open your browser at http://localhost: XXXX
 
-🧩 How It Works
+ How It Works
 
 Login or Signup to access your dashboard.
 
@@ -86,15 +86,15 @@ You receive a detailed feedback report and score displayed on the dashboard.
 
 📈 Future Enhancements
 
-🌐 Add real-time voice feedback during mock interviews
+ Add real-time voice feedback during mock interviews
 
-🤖 Add AI-generated follow-up questions
+ Add AI-generated follow-up questions
 
-🧍‍♂️ Personalized progress tracking per user
+ Personalized progress tracking per user
 
-🎯 Integration with job-specific question sets
+ Integration with job-specific question sets
 
-📸 Screenshots
+ Screenshots
 
 <img width="2047" height="1138" alt="image" src="https://github.com/user-attachments/assets/d498eef2-2029-4870-bb42-0966fec2f0e2" />
 <img width="2047" height="1161" alt="image" src="https://github.com/user-attachments/assets/579163d7-a86d-4537-95dd-a0f183403143" />
